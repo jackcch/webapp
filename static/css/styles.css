@@ -1,0 +1,35 @@
+.appheader {
+    background-image: linear-gradient(midnightblue, blue);
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px 10px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.mainbody {
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px 10px;
+    color: aliceblue;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.formbody {
+    background-color:rgb(56, 56, 244);
+    width: fit-content;
+    padding: 5px 10px;
+    margin: 5% auto;
+    border-radius: 10px;
+}
+
+div button {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+div button:hover {
+    background-color: blue;
+    color: azure;
+}
